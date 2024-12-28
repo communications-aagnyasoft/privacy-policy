@@ -21,12 +21,40 @@ This Log Data may include information such as your computer's Internet Protocol 
 
 In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this …
 
+Location Information
+
+We collect and process information about your device's location. This includes:
+- Precise location data using GPS, wireless networks, cell towers, and Bluetooth
+- Location information is used to provide location-based features and improve our services
+
+Camera Access
+
+Our application may request access to your device's camera for certain features. When you grant camera permissions:
+- We may collect and process images and videos you choose to share
+- Camera access is used only for specific functionality like profile photos or document scanning
+- We do not capture camera data without your explicit action
+- You can revoke camera permissions at any time through your device settings
+
+User Access Details
+
+We collect information about how you access and use our services, including:
+- Device information (hardware model, operating system version, unique device identifiers)
+- Login information and account activity
+- Features and pages you interact with
+- Time, frequency and duration of your activities
+- App performance and usage statistics
+
+This information helps us:
+- Authenticate users and prevent fraud
+- Analyze service performance
+- Improve user experience
+- Troubleshoot technical issues
 
 
 
 Communications
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that ...
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information.
 
 Cookies
 
